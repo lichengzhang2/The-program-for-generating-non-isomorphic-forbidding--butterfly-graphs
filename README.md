@@ -1,0 +1,5 @@
+- **8 vertices**: 1,769 butterfly-free graphs
+- **9 vertices**: 14,836 butterfly-free graphs
+- **10 vertices**: 174,111 butterfly-free graphs
+- **11 vertices**: 2,810,354 butterfly-free graphs
+- **12 vertices**: [Data missing]
