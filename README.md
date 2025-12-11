@@ -6,3 +6,4 @@ The program for generating non-isomorphic forbidding  butterfly-free  connected 
 - **10 vertices**: 174,111 butterfly-free graphs
 - **11 vertices**: 2,810,354 butterfly-free graphs
 - **12 vertices**: 62810605 graphs (generated in 530.89 sec)
+- **13 vertices**: 1926350530 graphs (made in 24514.28 cpu-seconds, 2382.73 seconds real time)
